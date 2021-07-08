@@ -2,7 +2,7 @@
 
 # I'm a Full Stack Web Developer and Android app Developer
 
-- 👨‍💻 I'm currently working on [Open IT Works][companyWebsite]
+- 👨‍💻 I'm working at [Open IT Works][companyWebsite], Chennai
 - 🌱 I’m currently learning [WordPress][wordPressWebsite], [Laravel][laravelWebsite], [Flutter][flutterWebsite]
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive][kdenliveWebsite]
