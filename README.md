@@ -1,4 +1,4 @@
-### Hi there, I'm Praveen
+## Hi there, I'm Praveen
 
 # I'm a Full Stack Web Developer and Android app Developer
 
