@@ -30,9 +30,21 @@
 ![kdenlive-icon](https://user-images.githubusercontent.com/67270359/124904724-ec109c00-e002-11eb-838a-8dd58edafac1.png)
 ![gimp-icon](https://user-images.githubusercontent.com/67270359/124904845-0c405b00-e003-11eb-94d4-5b0e0bff7203.png)
 
+## Social
+[<img src="https://user-images.githubusercontent.com/67270359/124906858-22e7b180-e005-11eb-83e0-ca1338835ec7.png">][linkedInProfile]
+[<img src="https://user-images.githubusercontent.com/67270359/124906866-254a0b80-e005-11eb-8878-4355a80bd5ae.png">][twitterProfile]
+[<img src="https://user-images.githubusercontent.com/67270359/124906878-267b3880-e005-11eb-864d-0744a7223d67.png">][instagramProfile]
+
+<br>
+
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil&layout=compact)
 
 [companyWebsite]: https://openitworks.in/
 [wordPressWebsite]: https://wordpress.org/
 [laravelWebsite]: https://laravel.com/
 [flutterWebsite]: https://flutter.dev/
 [kdenliveWebsite]: https://kdenlive.org/
+[linkedInProfile]: https://www.linkedin.com/in/praveenkumarjaganathan/
+[twitterProfile]: https://twitter.com/praveen_tamil_j/
+[instagramProfile]: https://www.instagram.com/praveenkumar.tamiljagan/
