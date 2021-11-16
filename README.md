@@ -1,6 +1,6 @@
 # Full Stack Web Developer and Android app Developer
 
-- 👨‍💻 I'm working at [Open IT Works][companyWebsite], Chennai
+- 👨‍💻 I'm working at [Aparyapta Solutions LLP (merged with Open IT Works)][companyWebsite], Chennai
 - 🌱 I’m currently learning [WordPress][wordPressWebsite], [Laravel][laravelWebsite], [Flutter][flutterWebsite]
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive][kdenliveWebsite]
@@ -81,7 +81,7 @@
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil&layout=compact)
 
-[companyWebsite]: https://openitworks.in/
+[companyWebsite]: https://aparyaptasolutions.github.io/
 [wordPressWebsite]: https://wordpress.org/
 [laravelWebsite]: https://laravel.com/
 [flutterWebsite]: https://flutter.dev/
