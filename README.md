@@ -81,7 +81,7 @@
 ![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil&layout=compact)
 
-[companyWebsite]: https://aparyaptasolutions.github.io/
+[companyWebsite]: https://proflujo.com
 [wordPressWebsite]: https://wordpress.org/
 [laravelWebsite]: https://laravel.com/
 [flutterWebsite]: https://flutter.dev/
