@@ -86,6 +86,6 @@
 [laravelWebsite]: https://laravel.com/
 [flutterWebsite]: https://flutter.dev/
 [kdenliveWebsite]: https://kdenlive.org/
-[linkedInProfile]: https://www.linkedin.com/in/praveenkumarjaganathan/
-[twitterProfile]: https://twitter.com/praveen_tamil_j/
-[instagramProfile]: https://www.instagram.com/praveenkumar.tamiljagan/
+[linkedInProfile]: https://www.linkedin.com/in/thisispraveenj/
+[twitterProfile]: https://twitter.com/thisispraveenj/
+[instagramProfile]: https://www.instagram.com/thisispraveenj/
