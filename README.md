@@ -1,4 +1,11 @@
-# Full Stack Web Developer and Android app Developer
+## Hi There <img src="https://user-images.githubusercontent.com/67270359/165369805-06cc3f75-bccf-438a-9fc0-bc0e4ddf7fec.gif" width="30px">
+
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&logoColor=fff&labelColor=0072b1&color=grey">][linkedInProfile]
+[<img src="https://img.shields.io/badge/Twitter-Profile-informational?logo=twitter&logoColor=fff&labelColor=1DA1F2&color=grey">][twitterProfile]
+[<img src="https://img.shields.io/badge/WordPress-Profile-informational?logo=wordpress&logoColor=fff&labelColor=21759B&color=grey">][wordPressProfile]
+
+
+[<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
 - 👨‍💻 I'm working at [Aparyapta Solutions LLP (merged with Open IT Works)][companyWebsite], Chennai
 - 🌱 I’m currently learning [WordPress][wordPressWebsite], [Laravel][laravelWebsite], [Flutter][flutterWebsite]
@@ -71,15 +78,12 @@
 ![gitlab](https://user-images.githubusercontent.com/67270359/135706126-b08ac0df-dcb9-4d1d-9563-8dac2698a91b.png)
 ![bitbucket-icon](https://user-images.githubusercontent.com/67270359/135706130-e4b63cab-b2ad-4fa9-b9da-dfbbbd9fe6e8.png)
 
-## Social
-[<img src="https://user-images.githubusercontent.com/67270359/124906858-22e7b180-e005-11eb-83e0-ca1338835ec7.png">][linkedInProfile]
-[<img src="https://user-images.githubusercontent.com/67270359/124906866-254a0b80-e005-11eb-8878-4355a80bd5ae.png">][twitterProfile]
-[<img src="https://user-images.githubusercontent.com/67270359/124906878-267b3880-e005-11eb-864d-0744a7223d67.png">][instagramProfile]
-
-<br>
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil&layout=compact)
+<a href="https://github-readme-stats.vercel.app/api?username=praveen-tamil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil">
+</a>
 
 [companyWebsite]: https://proflujo.com
 [wordPressWebsite]: https://wordpress.org/
@@ -88,4 +92,6 @@
 [kdenliveWebsite]: https://kdenlive.org/
 [linkedInProfile]: https://www.linkedin.com/in/thisispraveenj/
 [twitterProfile]: https://twitter.com/thisispraveenj/
-[instagramProfile]: https://www.instagram.com/thisispraveenj/
+[stackOverflowProfile]: https://stackoverflow.com/users/16351248
+[wordPressProfile]: https://profiles.wordpress.org/praveentamil/#content-plugins
+[googlePlayDeveloperProfile]: https://play.google.com/store/apps/dev?id=7931363833960511749
