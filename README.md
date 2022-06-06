@@ -1,4 +1,4 @@
-## Hi There <img src="https://user-images.githubusercontent.com/67270359/165369805-06cc3f75-bccf-438a-9fc0-bc0e4ddf7fec.gif" width="30px">
+## Hi There <img src="https://user-images.githubusercontent.com/67270359/165369805-06cc3f75-bccf-438a-9fc0-bc0e4ddf7fec.gif" height="30px">
 
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&logoColor=fff&labelColor=0072b1&color=grey">][linkedInProfile]
 [<img src="https://img.shields.io/badge/Twitter-Profile-informational?logo=twitter&logoColor=fff&labelColor=1DA1F2&color=grey">][twitterProfile]
