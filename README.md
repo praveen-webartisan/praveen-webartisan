@@ -7,7 +7,7 @@
 
 [<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
-- 👨‍💻 I'm working at [Aparyapta Solutions LLP (merged with Open IT Works)][companyWebsite], Chennai
+- 👨‍💻 I'm working as a Full Stack Web and Mobile app Developer at Chennai
 - 🌱 I’m currently learning [WordPress][wordPressWebsite], [Laravel][laravelWebsite], [Flutter][flutterWebsite]
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive][kdenliveWebsite]
@@ -85,7 +85,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil">
 </a>
 
-[companyWebsite]: https://proflujo.com
 [wordPressWebsite]: https://wordpress.org/
 [laravelWebsite]: https://laravel.com/
 [flutterWebsite]: https://flutter.dev/
