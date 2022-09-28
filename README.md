@@ -81,6 +81,9 @@
 [<img src="https://user-images.githubusercontent.com/67270359/135707760-a8944aef-8879-4ea7-95cc-464b81ac1481.png" height="30px"/>](https://www.postman.com)
 [<img src="https://user-images.githubusercontent.com/67270359/192831528-4111220a-60cd-437a-ac12-022495541bda.png" height="30px"/>](https://www.vaultproject.io)
 
+[<img src="https://user-images.githubusercontent.com/67270359/192848576-b9e0b97a-7041-4409-9f1e-bc6038530829.svg" height="30px"/>](https://www.heroku.com)
+[<img src="https://user-images.githubusercontent.com/67270359/192850894-9612be27-93a1-41e2-8caa-ae3202a2435c.svg" height="30px"/>](https://vercel.com)
+
 #### Other Apps
 [<img src="https://user-images.githubusercontent.com/67270359/135706893-46a45882-81b1-4971-95fe-a2df37c85b1f.png" height="30px"/>](https://www.office.com)
 
@@ -94,6 +97,12 @@
 [<img src="https://user-images.githubusercontent.com/67270359/124904715-eadf6f00-e002-11eb-95c8-6b7250408395.png" height="30px"/>](https://github.com)
 [<img src="https://user-images.githubusercontent.com/67270359/135706126-b08ac0df-dcb9-4d1d-9563-8dac2698a91b.png" height="30px"/>](https://gitlab.com)
 [<img src="https://user-images.githubusercontent.com/67270359/135706130-e4b63cab-b2ad-4fa9-b9da-dfbbbd9fe6e8.png" height="30px"/>](https://bitbucket.org)
+
+#### My Works
+- [🔑 Password Generator](https://getmeapassword.herokuapp.com)
+- [🤖 Friendly Telegram Bot](https://funnybuddybot.herokuapp.com)
+- [🎲 Dice Rolling simulator](https://rolladice.vercel.app)
+
 
 <a href="https://github-readme-stats.vercel.app/api?username=praveen-tamil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true">
