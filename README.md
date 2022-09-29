@@ -43,6 +43,7 @@
 [<img src="https://user-images.githubusercontent.com/67270359/124904489-b10e6880-e002-11eb-8d6d-bea94db0223c.png" height="30px"/>](https://jquery.com)
 [<img src="https://user-images.githubusercontent.com/67270359/135707748-804b0fcd-466d-46bc-ad2f-37880a5464bf.png" height="30px"/>](https://vuejs.org)
 
+[<img src="https://user-images.githubusercontent.com/67270359/193102591-08200707-b409-48f9-bca8-4e47fa0d1e01.svg" height="30px"/>](https://dotnet.microsoft.com)
 [<img src="https://user-images.githubusercontent.com/67270359/192846285-c4234db9-a761-447f-85cd-991cfdfd04da.png" height="30px"/>](https://electronjs.org)
 
 #### IDE
