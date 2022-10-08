@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
 - 👨‍💻 I'm working as a Full Stack Web and Mobile app Developer at Chennai
-- 🌱 I’m currently learning [WordPress](https://wordpress.org), [Laravel](https://laravel.com), [Flutter](https://flutter.dev)
+- 📖 Currently learning [Go](https://go.dev), [React](https://reactjs.org), [Next.js](https://nextjs.org)
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive](https://kdenlive.org)
 
