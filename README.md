@@ -113,8 +113,15 @@
 [<img src="https://user-images.githubusercontent.com/67270359/135706130-e4b63cab-b2ad-4fa9-b9da-dfbbbd9fe6e8.png" height="30px"/>](https://bitbucket.org)
 
 ## Publications
-[<img src="https://user-images.githubusercontent.com/67270359/193088778-a2318cc7-e88b-4ddd-8370-a3107a2e52ac.png" height="50px"/>](https://chrome.google.com/webstore/detail/adminer-helper/edgabamjcoahlnhelppganhieempbgbf)
-[<img src="https://user-images.githubusercontent.com/67270359/193090702-183d4c39-1eae-4b7e-992f-fa305f8ad79b.svg" height="50px"/>](https://profiles.wordpress.org/praveentamil/#content-plugins)
+
+#### Chrome Extensions
+
+[<img src="https://user-images.githubusercontent.com/67270359/197110441-9ce2bd3a-6d32-497e-b5e6-d407def32583.png" height="50px"/>](https://chrome.google.com/webstore/detail/adminer-helper/edgabamjcoahlnhelppganhieempbgbf)&ensp;
+[<img src="https://user-images.githubusercontent.com/67270359/197110520-9950b9ef-91b1-4a7e-8787-fda3386300e1.png" height="50px"/>](https://chrome.google.com/webstore/detail/block-it-for-me/mhdonialcdjehbakhkfkalpboogiidhg)
+
+#### WordPress Plugins
+
+[<img src="https://user-images.githubusercontent.com/67270359/197110321-0484ca14-a4c1-4b25-90ff-d169f556ecd7.svg" height="50px"/>](https://wordpress.org/plugins/sticky-action-buttons)
 
 ## Hobbies
 - [🔑 Password Generator](https://getmeapassword.herokuapp.com)
