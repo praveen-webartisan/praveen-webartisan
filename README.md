@@ -127,6 +127,7 @@
 - [🔑 Password Generator](https://getmeapassword.herokuapp.com)
 - [🤖 Friendly Telegram Bot](https://funnybuddybot.herokuapp.com)
 - [🎲 Dice Rolling simulator](https://rolladice.vercel.app)
+- [💥 Happy Diwali 💥](https://praveen-tamil.github.io/happy-diwali)
 
 <a href="https://github-readme-stats.vercel.app/api?username=praveen-tamil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true">
