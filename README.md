@@ -7,7 +7,7 @@
 
 [<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
-- 👨‍💻 I'm working as a Full Stack Web and Mobile app Developer at Chennai
+- 👨‍💻 I'm working as a Full Stack Web and Mobile app Developer, Blockchain developer at Chennai
 - 📖 Currently learning [Go](https://go.dev), [React](https://reactjs.org), [Next.js](https://nextjs.org)
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive](https://kdenlive.org)
@@ -45,6 +45,10 @@
 
 [<img src="https://user-images.githubusercontent.com/67270359/193102591-08200707-b409-48f9-bca8-4e47fa0d1e01.svg" height="30px"/>](https://dotnet.microsoft.com)
 [<img src="https://user-images.githubusercontent.com/67270359/192846285-c4234db9-a761-447f-85cd-991cfdfd04da.png" height="30px"/>](https://electronjs.org)
+
+#### Blockchain Platforms
+[<img src="https://user-images.githubusercontent.com/67270359/200165939-32c04b09-7171-42b2-b75e-9e466a5f959a.svg" height="30px"/>](http://polygon.technology)
+[<img src="https://user-images.githubusercontent.com/67270359/200165899-cfb13f1d-d35d-4a5c-9ec1-ca13dd6a8515.svg" height="30px"/>](https://near.org)
 
 #### IDE
 [<img src="https://user-images.githubusercontent.com/67270359/135706891-391472e2-520e-4ac3-af92-126217e420d1.png" height="30px"/>](https://developer.android.com/studio)
