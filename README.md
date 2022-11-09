@@ -49,6 +49,8 @@
 #### Blockchain Platforms
 [<img src="https://user-images.githubusercontent.com/67270359/200165939-32c04b09-7171-42b2-b75e-9e466a5f959a.svg" height="30px"/>](http://polygon.technology)
 [<img src="https://user-images.githubusercontent.com/67270359/200165899-cfb13f1d-d35d-4a5c-9ec1-ca13dd6a8515.svg" height="30px"/>](https://near.org)
+[<img src="https://user-images.githubusercontent.com/67270359/200864070-96e62108-0d3f-45ec-b766-4def9a9b389a.svg" height="30px"/>](https://hedera.com)
+
 
 #### IDE
 [<img src="https://user-images.githubusercontent.com/67270359/135706891-391472e2-520e-4ac3-af92-126217e420d1.png" height="30px"/>](https://developer.android.com/studio)
@@ -131,13 +133,13 @@
 - [🔑 Password Generator](https://getmeapassword.herokuapp.com)
 - [🤖 Friendly Telegram Bot](https://funnybuddybot.herokuapp.com)
 - [🎲 Dice Rolling simulator](https://rolladice.vercel.app)
-- [💥 Happy Diwali 💥](https://praveen-tamil.github.io/happy-diwali)
+- [💥 Happy Diwali 💥](https://praveen-webartisan.github.io/happy-diwali)
 
-<a href="https://github-readme-stats.vercel.app/api?username=praveen-tamil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-tamil&count_private=true&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api?username=praveen-webartisan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-webartisan&count_private=true&show_icons=true">
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-tamil">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-webartisan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-webartisan">
 </a>
 
 [linkedInProfile]: https://linkedin.com/in/thisispraveenj/
