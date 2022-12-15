@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
 - 👨‍💻 I'm working as a Full Stack Web and Mobile app Developer, Blockchain developer at Chennai
-- 📖 Currently learning [Go](https://go.dev), [React](https://reactjs.org), [Next.js](https://nextjs.org)
+- 📖 Currently exploring [Ethereum](https://ethereum.org) source code ([Geth](https://geth.ethereum.org))
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive](https://kdenlive.org)
 
@@ -134,6 +134,9 @@
 - [🤖 Friendly Telegram Bot](https://funnybuddybot.herokuapp.com)
 - [🎲 Dice Rolling simulator](https://rolladice.vercel.app)
 - [💥 Happy Diwali 💥](https://praveen-webartisan.github.io/happy-diwali)
+- [🎞️ Rubix meme #1](https://twitter.com/thisispraveenj/status/1537526902490996737)
+- [🎞️ Rubix meme #2](https://twitter.com/thisispraveenj/status/1538145224475971584)
+- [🎞️ Rubix meme #3](https://twitter.com/thisispraveenj/status/1540024062092939264)
 
 <a href="https://github-readme-stats.vercel.app/api?username=praveen-webartisan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen-webartisan&count_private=true&show_icons=true">
