@@ -1,5 +1,13 @@
 ## Hi There <img src="https://user-images.githubusercontent.com/67270359/165369805-06cc3f75-bccf-438a-9fc0-bc0e4ddf7fec.gif" height="30px">
 
+<pre>
+# # # #           # #     #     #         # # # #   # # # #     # #     #     #   # # # #   # # # #   #     #
+   #            #     #   # # # #         #     #   #     #   #     #   #     #   #         #         # #   #
+   #            # # # #   #  #  #         # # # #   # # # #   # # # #   #     #   # # # #   # # # #   #  #  #
+   #            #     #   #     #         #         #  #      #     #   #     #   #         #         #   # #
+# # # #         #     #   #     #         #         #     #   #     #     # #     # # # #   # # # #   #     #
+</pre>
+
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin&logoColor=fff&labelColor=0072b1&color=grey">][linkedInProfile]
 [<img src="https://img.shields.io/badge/Twitter-Profile-informational?logo=twitter&logoColor=fff&labelColor=1DA1F2&color=grey">][twitterProfile]
 [<img src="https://img.shields.io/badge/WordPress-Profile-informational?logo=wordpress&logoColor=fff&labelColor=21759B&color=grey">][wordPressProfile]
@@ -8,7 +16,7 @@
 [<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
 - 👨‍💻 I'm working as a Full Stack Web Developer, Mobile app Developer, Blockchain Developer at Chennai
-- 📖 Currently exploring [Ethereum](https://ethereum.org) source code ([Geth](https://geth.ethereum.org))
+- 📖 Currently exploring [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive](https://kdenlive.org)
 
