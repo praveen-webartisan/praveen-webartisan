@@ -45,6 +45,7 @@
 [<img src="https://user-images.githubusercontent.com/67270359/124904458-a94ec400-e002-11eb-9f2f-3aa14004bd32.png" height="30px"/>](https://wordpress.org)
 [<img src="https://user-images.githubusercontent.com/67270359/135706076-cbe38a36-537a-4917-b936-c2e4113655bf.png" height="30px"/>](https://angular.io)
 [<img src="https://user-images.githubusercontent.com/67270359/135706078-30557c44-83cd-4286-b382-87b61642c5ea.png" height="30px"/>](https://flask.palletsprojects.com)
+[<img src="https://github.com/praveen-webartisan/praveen-webartisan/assets/67270359/7b7903af-edea-4aab-802e-8b63c3fd41f8" height="30px"/>](https://fastapi.tiangolo.com)
 [<img src="https://user-images.githubusercontent.com/67270359/193085178-962f363d-c7bb-4f60-a0b1-23cb9039565a.svg" height="30px"/>](https://reactjs.org)
 [<img src="https://user-images.githubusercontent.com/67270359/193098875-c6a8a360-362c-45c1-aa9f-6643081549e5.svg" height="30px"/>](https://nodejs.org/about)
 
@@ -53,6 +54,7 @@
 
 [<img src="https://user-images.githubusercontent.com/67270359/193102591-08200707-b409-48f9-bca8-4e47fa0d1e01.svg" height="30px"/>](https://dotnet.microsoft.com)
 [<img src="https://user-images.githubusercontent.com/67270359/192846285-c4234db9-a761-447f-85cd-991cfdfd04da.png" height="30px"/>](https://electronjs.org)
+
 
 #### Blockchain Platforms
 [<img src="https://user-images.githubusercontent.com/67270359/200165939-32c04b09-7171-42b2-b75e-9e466a5f959a.svg" height="30px"/>](http://polygon.technology)
@@ -69,6 +71,8 @@
 #### Database
 [<img src="https://user-images.githubusercontent.com/67270359/124904464-ab188780-e002-11eb-81f6-b1f8ff433cf2.png" height="30px"/>](https://mysql.com)
 [<img src="https://user-images.githubusercontent.com/67270359/135708170-10505a25-1a22-4515-b93d-49762ce25255.png" height="30px"/>](https://mongodb.com)
+[<img src="https://github.com/praveen-webartisan/praveen-webartisan/assets/67270359/d440ebfc-29eb-4724-81db-4a12055c5b0d" height="30px"/>](https://www.postgresql.org)
+
 
 #### Design Frameworks
 [<img src="https://user-images.githubusercontent.com/67270359/124904480-af44a500-e002-11eb-8f4f-7ec818c96565.png" height="30px"/>](https://getbootstrap.com)
