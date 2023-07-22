@@ -135,7 +135,8 @@
 #### Chrome Extensions
 
 [<img src="https://user-images.githubusercontent.com/67270359/197110441-9ce2bd3a-6d32-497e-b5e6-d407def32583.png" height="50px"/>](https://chrome.google.com/webstore/detail/adminer-helper/edgabamjcoahlnhelppganhieempbgbf)&ensp;
-[<img src="https://user-images.githubusercontent.com/67270359/197110520-9950b9ef-91b1-4a7e-8787-fda3386300e1.png" height="50px"/>](https://chrome.google.com/webstore/detail/block-it-for-me/mhdonialcdjehbakhkfkalpboogiidhg)
+[<img src="https://user-images.githubusercontent.com/67270359/197110520-9950b9ef-91b1-4a7e-8787-fda3386300e1.png" height="50px"/>](https://chrome.google.com/webstore/detail/block-it-for-me/mhdonialcdjehbakhkfkalpboogiidhg)&ensp;
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/67270359/255313492-01f05760-44e4-4a45-bf04-1186dd72c9d8.svg" height="50px"/>](https://chrome.google.com/webstore/detail/chatgpt-customizer/pnimajblfapnpjoaflgocogajeepfijb)&ensp;
 
 #### WordPress Plugins
 
