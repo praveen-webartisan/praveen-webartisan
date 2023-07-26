@@ -16,7 +16,7 @@
 [<img src="https://img.shields.io/badge/StackOverflow-Profile-informational?logo=stackoverflow&logoColor=fff&labelColor=F58025&color=grey">][stackOverflowProfile]
 
 - 👨‍💻 I'm working as a Full Stack Web Developer, Mobile app Developer, Blockchain Developer at Chennai
-- 📖 Currently exploring [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- 📖 Currently learning [CI/CD](https://resources.github.com/ci-cd) and [AWS](https://aws.amazon.com)
 - ⚡ I love Scripting languages and Open source Tools
 - 🛠️ I could Create/Edit Videos using [Kdenlive](https://kdenlive.org)
 
